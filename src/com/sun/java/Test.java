@@ -11,6 +11,7 @@ public class Test {
 		System.out.println("05");
 		System.out.println("0666");
 		System.out.println("0666");
+		System.out.println("dfdfdf6");
 	}
 
 }
