@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("04");
 		System.out.println("05");
 		System.out.println("0666");
+		System.out.println("0666");
 	}
 
 }
